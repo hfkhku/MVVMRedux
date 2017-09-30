@@ -1,2 +1,2 @@
 # MVVMRedux
-MVVM+Redux
+MVVM+ReduxでWPFアプリをC#+F#で作成する
